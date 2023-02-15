@@ -90,6 +90,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [prosper.com](http://prosper.com)
 - [patreon.com](http://patreon.com)
 - [bitpay.com](http://bitpay.com)
+- [znzir.com](http://znzir.com)
 - [news.ycombinator.com](http://news.ycombinator.com)
 - [producthunt.com](http://producthunt.com)
 - [medium.com](http://medium.com)
