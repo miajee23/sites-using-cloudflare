@@ -102,6 +102,8 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [localbitcoins.com](http://localbitcoins.com)
 - [kraken.com](http://kraken.com)
 - [23andme.com](http://23andme.com)
+- [bestkoditips.com](http://bestkoditips.com]
+- [agilemtech.ae](http://agilemtech.ae]
 - [curse.com](http://curse.com) (and some other Curse sites like [minecraftforum.net](http://minecraftforum.net))
 - [counsyl.com](http://counsyl.com)
 - [tfl.gov.uk](http://tfl.gov.uk)
